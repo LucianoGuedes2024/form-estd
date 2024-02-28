@@ -1,0 +1,40 @@
+body {
+    background-image: url(imagens/sala.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+   text-align: center;
+}
+
+form input {
+    background-color: rgba(0, 0, 0, 0.342);   
+    }
+
+select {
+    background-color: rgba(0, 0, 0, 0.342);   
+   border-radius: 30px; 
+}
+
+ .fomulario input:hover{
+    background-color: black;  
+    color: rgb(248, 248, 248); 
+    transition: 0.7s;
+    cursor: pointer;
+    
+}   
+
+input {
+    border-radius: 30px
+}
+  
+ 
